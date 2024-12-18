@@ -6,11 +6,6 @@
 
 **This is a simple Calculator app built with React.js. It performs basic arithmetic operations and provides a clear, responsive interface for quick calculations.**
 
-## Live Demo
-
-You can access the live demo of this Calculator on Netlify:
-<br>
-Netlify: [React Calculator Demo](https://react-multiapp.netlify.app/calculator)
 
 ## How to Use
 1. **Perform Calculations**: Enter numbers and operators directly on the calculator's buttons.
